@@ -1,2 +1,3 @@
-# my-figma-project
-my uploads from figma
+# FITPULSE
+A fitness tracking app
+
