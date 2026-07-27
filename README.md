@@ -45,7 +45,7 @@ GROUP MEMBERS
                       
        b. BUILDER.COLLABORATIVE PLUGIN: WE USED TO CREATE OUR FITPULSE WEBSITE
                                         WE USED IT TO EXPORT THE SCREENS INTO OUR FIGMA
-          OUR BUILDER,COLLABORATIVE LINK: https://builder.io/app/projects/34b9caf2260a4f76a193/main/clone
+          OUR BUILDER,COLLABORATIVE LINK: https://34b9caf2260a4f76a193-main.projects.builder.my 
 
  8.   LINKS TO IIMAGES
     :https://www.figma.com/design/756ULo4WSJVy2l0dx3FXLo/fitpulse?node-id=54-1308&t=BqPkiTGcn2DpiyR2-1
